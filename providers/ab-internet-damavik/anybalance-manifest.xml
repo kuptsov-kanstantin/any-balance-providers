@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <provider>
 	<api flags="no_browser" />
-	<id version="9">ab-internet-damavik</id>
-	<name>Атлант Телеком (Шпарки Дамавик)</name>
+	<id version="10">ab-internet-damavik</id>
+	<name>Velcom|A1. Интернет</name>
 	<description html="true"><![CDATA[
 	<p>Получает данные для интернет-провайдера Velcom (Шпаркi дамавiк или Атлант Телеком) http://mydom.velcom.by/</p>
 	]]></description>	
@@ -22,6 +22,8 @@
 		<counter id="trafic" name="Трафик" units=" Мб"/>
 		<counter id="trafic_total" name="Трафик всего" units=" Мб"/>
 		<counter id="acc" name="Номер лицевого счета" type="text"/>
+		<counter id="tp" name="Тарифный план" type="text"/>
+
 	</counters>
 	<keywords></keywords>
 	<type>internet</type>

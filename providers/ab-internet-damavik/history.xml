@@ -1,7 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<history>
+<history>	
+	<change version="10" date="2019-05-25">
+	- Исправлена работа с новым личным кабинетом
+	</change>
 	<change version="9" date="2018-01-15">
-	Переезд провайдера в велком
+	- Переезд провайдера в велком
 	</change>
 	<change version="8" date="2015-09-12">
 	- Изменение адреса личного кабинета
